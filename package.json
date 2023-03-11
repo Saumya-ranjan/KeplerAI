@@ -1,0 +1,25 @@
+{
+  "name": "keplerai",
+  "version": "1.0.0",
+  "description": "AI Continues to Grow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saumya-ranjan/KeplerAI.git"
+  },
+  "author": "Saumyaranjan Parida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saumya-ranjan/KeplerAI/issues"
+  },
+  "homepage": "https://github.com/Saumya-ranjan/KeplerAI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
+  }
+}
